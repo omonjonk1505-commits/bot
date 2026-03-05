@@ -11,7 +11,7 @@ from openai import OpenAI
 TELEGRAM_BOT_TOKEN = "8342079117:AAEm6pYd5FMnNqFkGIlCrHh3epfkU8bOJ1s"
 
 client = OpenAI(
-    api_key="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",
+    api_key="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",
     base_url="https://api.groq.com/openai/v1"
 )
 
